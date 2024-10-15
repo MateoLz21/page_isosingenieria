@@ -65,7 +65,7 @@ p.form-messege{
      position: relative;
 }
  .progress-bar {
-     background-color: #0c5adb;
+     background-color: #00A3A0;
 }
  .witr_progress-style2.progress {
     box-shadow: none;
@@ -1252,6 +1252,7 @@ p.form-messege{
      color: #fff;
 }
  .witr_feature2 p {
+     text-align: justify;
      color: #fff;
 }
  .witr_feature_btn2 a {
@@ -7114,7 +7115,7 @@ p.form-messege{
      display: none;
 }
  .solutech-header-top {
-     background: #0c5adb;
+     background: #00A3A0;
      padding: 10px 0;
      padding-right: 200px;
      padding-left: 200px;
@@ -7617,7 +7618,7 @@ p.form-messege{
      transition: .3s;
 }
  .solutech_nav_area.prefix, .hbg2 {
-     background:#153d7a;
+     background:#00247e;;
 }
  .solutech_nav_area.prefix .solutech_menu > ul > li > a {
      color:#fff;
@@ -8528,10 +8529,6 @@ p.form-messege{
 /*======================== END FOOTER TOP AREA CSS =========================*/
 /*======================== solutech FOOTER MIDDLE AREA CSS =========================*/
  .witrfm_area {
-     background-repeat: no-repeat;
-     background-position: center center;
-     background-image: url(assets/images/blog9.jpg);
-     background-size: cover;
      position:relative;
 	 z-index: 1;
 }
@@ -8544,7 +8541,7 @@ p.form-messege{
     left: 0;
     right: 0;
     margin: auto;
-    background: #153d7af2;
+    background: #00247e;
     z-index: -1;
 }
  .footer-middle {
@@ -11419,7 +11416,7 @@ p.form-messege{
      text-transform: uppercase;
 }
  .serivce_bg .witr_feature2 {
-     background: #0C5ADB;
+     background: #00A3A0;
      padding: 65px 24px;
      margin-bottom:30px;
 }
@@ -11491,7 +11488,7 @@ p.form-messege{
      color: #0C5ADB;
 }
  .counter_bg .all_counter_color h3, .counter_bg .all_counter_color span {
-     color:#0c5adb;
+     color:#00A3A0;
      font-weight: 600;
      padding: 10px 0px 10px 0px;
 }
