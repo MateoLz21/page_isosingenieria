@@ -655,7 +655,7 @@ p.form-messege{
      overflow: hidden;
 }
  .witr_btn {
-     background: #0c5adb;
+     background: #00A3A0;
      border-radius: 30px;
      color: #fff;
      display: inline-block;
@@ -8309,7 +8309,7 @@ p.form-messege{
 }
  .breadcumb-area {
      padding: 150px 0px;
-     background-image: url(assets/images/slider-2.jpg);
+     background-image: url(assets/images/impl.png);
      background-position: center center;
      background-repeat: no-repeat;
      position: relative;
@@ -8343,7 +8343,7 @@ p.form-messege{
      color: #0c5adb;
 }
  .brpt h2 {
-     color: #fff;
+     color: #00247e;
      font-size: 40px;
     /* padding-bottom: 10px;
      */
@@ -11200,7 +11200,7 @@ p.form-messege{
      display: inline;
 }
  .witr_swiper_content h2, .witr_swiper_content h3{
-     font-size:78px;
+     font-size:90px;
      font-weight:700;
      line-height: 1;
 }
@@ -11325,7 +11325,7 @@ p.form-messege{
      color:#0c5adb;
 }
  a.dtbtn:hover, .witr_btn:hover, .solutech_button a:hover{
-     background:#0c5adb;
+     background:#09c4c1;
 }
  a.dtbtn::before, .witr_btn::before, .witr_bbtn::before, .solutech_button a::before, .witr_sbtn_s8 a::before {
      transition: 0.5s;
@@ -11335,7 +11335,7 @@ p.form-messege{
      content: "";
      bottom: 0;
      left: -38px;
-     background:#00247e;
+     background:#09c4c1;
      z-index: -1;
      border-radius:50px;
 }
@@ -11626,7 +11626,7 @@ p.form-messege{
      margin-top:0px;
 }
  .witr_button_bg{
-     background-image: url(assets/images/b4.jpg);
+     background-color: #0c5adb;
      padding: 0px 0px 66px;
      background-size: cover;
      position:relative;
@@ -11638,7 +11638,6 @@ p.form-messege{
      top: 0px;
      width: 100%;
      height: 100%;
-     background:linear-gradient(180deg, #0c5adb80 0%, #00247e80 100%);
 }
  .witr_button_bg .witr_button_area {
      text-align: center;
