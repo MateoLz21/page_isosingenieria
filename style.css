@@ -1,5 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@100;200;300;400;500;600;700;800;900&family=Barlow:wght@100;200;300;400;500;600;700;800;900&display=swap');
-/* === theme style   ==== */
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
 
 a{
      color: #17161a;
@@ -20,9 +19,11 @@ a{
 }
  p {
      font-style: normal;
+     font-size: 15px;
+     
 }
  h1, h2, h3, h4, h5, h6, h1 a, h2 a, h3 a, h4 a, h5 a, h6 a{
-     font-family: 'Barlow Condensed', sans-serif;
+     font-family: 'Outfit', sans-serif;
      font-style: normal;
      margin-bottom: 0;
      line-height: 1.2;
@@ -7156,7 +7157,7 @@ p.form-messege{
 }
  .top-welcomet p span, .top-welcomet p a, .top-welcome p span, .top-welcome p a, .top-welcome p, .top-address p a, .top-right-menu ul.social-icons li a, .top-address p span {
      color: #fff;
-     font-size: 15px;
+     font-size: 12px;
      font-weight: 500;
 }
  .top-welcome p a:hover{
@@ -7540,10 +7541,10 @@ p.form-messege{
      transition: .5s;
      position: relative;
      color: #222222;
-     font-size: 18px;
+     font-size: 12px;
      font-weight: 500;
      text-transform: uppercase;
-     font-family: 'Barlow Condensed', sans-serif;
+     font-family: 'Outfit', sans-serif;
 }
  .solutech_menu > ul > li > a:before, .solutech_menu > ul > li.current > a:before {
      background: #ffb600 none repeat scroll 0% 0;
@@ -7681,12 +7682,12 @@ p.form-messege{
      margin: 0;
      margin-bottom: 7px;
      letter-spacing: normal;
-     font-size: 17px;
+     font-size: 12px;
      color: #222222;
      font-weight: 500;
      transition: .5s;
      visibility: inherit !important;
-     font-family: 'Barlow Condensed', sans-serif;
+     font-family: 'Outfit', sans-serif;
 }
  .solutech_menu ul .sub-menu li:hover > a, .solutech_menu ul .sub-menu .sub-menu li:hover > a, .solutech_menu ul .sub-menu .sub-menu .sub-menu li:hover > a, .solutech_menu ul .sub-menu .sub-menu .sub-menu .sub-menu li:hover > a {
      color: #0c5adb;
@@ -8838,7 +8839,7 @@ p.form-messege{
      line-height:1;
 }
  .witr_section_title_inner h1, .witr_section_title_inner h2, .witr_section_title_inner h3{
-     font-size: 45px;
+     font-size: 40px;
      margin: auto;
      font-weight: 700;
 }
@@ -8851,7 +8852,7 @@ p.form-messege{
  .witr_section_title_inner h1{
 }
  .witr_section_title_inner h2{
-     font-size: 26px;
+     font-size: 22px;
      color: #0c5adb;
      margin-bottom: 13px;
      display: inline-block;
@@ -11200,7 +11201,7 @@ p.form-messege{
      display: inline;
 }
  .witr_swiper_content h2, .witr_swiper_content h3{
-     font-size:90px;
+     font-size:60px;
      font-weight:700;
      line-height: 1;
 }
@@ -11314,7 +11315,7 @@ p.form-messege{
 /* button hover style */
  .feature_btn a, .witr_ser_btnb a, .service-btn > a, a.dtbtn, .witr_btn, .witr_bbtn, .witr_gbtn, .witr_gbbtn, .solutech_button a, .witr_sbtn_s8 a{
      border-radius:5px;
-     font-size:15px;
+     font-size:12px;
      font-weight:600;
      position: relative;
      z-index: 1;
@@ -11382,14 +11383,14 @@ p.form-messege{
      width: 80px;
 }
  .features_bg .all_color_service p {
-     font-size: 20px;
-     font-weight: 700;
+     font-size: 15px;
+     font-weight: 500;
      text-transform: uppercase;
      line-height: 1.3em;
      color: #00247e;
 }
  .features_bg .all_color_service h3 a {
-     font-size: 15px;
+     font-size: 12px;
 }
  .solutech_about_area{
      padding:95px 0px 60px;
@@ -11493,7 +11494,7 @@ p.form-messege{
      padding: 10px 0px 10px 0px;
 }
  .counter_bg .all_counter_color h4, .counter_bg .all_counter_color h1 {
-     font-size: 22px;
+     font-size: 18px;
 }
  .single_faq_bg_area{
      padding:240px 0px 100px;
@@ -11511,7 +11512,7 @@ p.form-messege{
 }
  .faq_area .witr_ac_style {
      padding: 22px 0px 22px 30px;
-     font-size: 18px;
+     font-size: 13px;
      text-transform: uppercase;
 }
  .faq_area.accordion_area .card-2 {
